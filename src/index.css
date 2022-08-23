@@ -5,6 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: black;
+  height: 100%;
+}
+
+#t {
+  opacity: 0.0;
+  margin-right: 15px;
+}
+
+p {
+  color: white;
+  font-size: 40px
 }
 
 code {
